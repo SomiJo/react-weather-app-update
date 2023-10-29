@@ -10,7 +10,7 @@ function App() {
         <footer>
           This App was coded by Somaye Jodeir and is{" "}
           <a
-            href="https://github.com/SomiJo/react-weather-app.git"
+            href="https://github.com/SomiJo/react-weather-app-update.git"
             target="_blank">
             open_source on Github
           </a>
